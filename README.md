@@ -6,11 +6,14 @@
 [![License](https://img.shields.io/cocoapods/l/ReverseExtension.svg?style=flat)](http://cocoapods.org/pods/ReverseExtension)
 [![Platform](https://img.shields.io/cocoapods/p/ReverseExtension.svg?style=flat)](http://cocoapods.org/pods/ReverseExtension)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 ###Micro library to display app version within iOS app.
 <p align=center>
     <img src="Images/UITableView_short.png">
 </p>
+
 ## Example
+
 ### Using Storyboard
 Create AppVersion label in storyboard: Drag UILabel on your storyboard and set class to `AppVersionLabel`
 ![Storyboard1](Images/Storyboard_class.png)
