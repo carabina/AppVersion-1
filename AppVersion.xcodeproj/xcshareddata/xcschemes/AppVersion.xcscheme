@@ -53,6 +53,17 @@
          </BuildableReference>
       </CodeCoverageTargets>
       <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3946C69921A9CEAE009C46CC"
+               BuildableName = "AppVersionTests.xctest"
+               BlueprintName = "AppVersionTests"
+               ReferencedContainer = "container:AppVersion.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
